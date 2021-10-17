@@ -1,0 +1,2 @@
+### 1) The bug is that num1 and num2 are read in as strings thus when they are added together result also becomes a string and just a concatenation of the two strings
+### 2) One way to fix it is to use JavaScirpts' parseInt() command with base 10 prior to adding the two numbers together. That way the numbers are mapped to integers and result also becomes a number. 
